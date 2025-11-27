@@ -30,7 +30,7 @@ A REST API built with Node.js and Express featuring JWT authentication, CRUD ope
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone git@github.com:arashlayeghi/evaluation-api.git
 cd evaluation-api
 
 # Start the application
